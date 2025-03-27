@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am interested in brain-computer interfaces, deep learning and genAI. Please feel free to contact me.
 <!--
 **feroooooo/feroooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
