@@ -1,5 +1,5 @@
 ## Hi there
-I am interested in brain-computer interfaces, deep learning and genAI. Please feel free to contact me.
+I am a master's student at Beijing University of Posts and Telecommunications, interested in neural decoding, multimodal learning and genAI. Please feel free to contact me: wjzhang@bupt.edu.cn. 😊
 <!--
 **feroooooo/feroooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
