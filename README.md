@@ -1,5 +1,5 @@
 ## Hi there
-I am a master’s student at Beijing University of Posts and Telecommunications, focusing on neural decoding, multimodal learning, and generative AI. I am currently seeking PhD opportunities, and would be delighted to connect regarding potential research collaborations or openings. Please feel free to reach out to me at wjzhang@bupt.edu.cn. 😊
+I am currently a master’s student at Beijing University of Posts and Telecommunications, focusing on neural decoding, multimodal learning, and generative AI. I am currently seeking PhD opportunities, and would be delighted to connect regarding potential research collaborations or openings. Please feel free to reach out to me at wjzhang@bupt.edu.cn. 😊
 <!--
 **feroooooo/feroooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
